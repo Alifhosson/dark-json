@@ -1,5 +1,5 @@
 {
-  "apiUrl": "https://darkproxy-two.vercel.app",
+  "apiUrl": "https://darkproxy-two.vercel.app/api/release",
   "website": "https://darkproxy-two.vercel.app",
   "telegram": "alifhosson",
   "supportEmail": "darkproxysupport@gmail.com",
